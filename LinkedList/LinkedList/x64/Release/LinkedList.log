@@ -1,0 +1,8 @@
+﻿  LinkedList.cpp
+U:\Visual Studio 2019\LinkedList\LinkedList\LinkedList.cpp(328,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 440 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LinkedList.vcxproj -> U:\Visual Studio 2019\LinkedList\x64\Release\LinkedList.exe
