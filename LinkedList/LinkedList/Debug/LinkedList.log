@@ -1,0 +1,6 @@
+﻿  CSVparser.cpp
+  LinkedList.cpp
+U:\Visual Studio 2019\LinkedList\LinkedList\LinkedList.cpp(319,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+U:\Visual Studio 2019\LinkedList\LinkedList\LinkedList.cpp(244): warning C4715: 'LinkedList::Search': not all control paths return a value
+  LinkedList.vcxproj -> U:\Visual Studio 2019\LinkedList\Debug\LinkedList.exe
